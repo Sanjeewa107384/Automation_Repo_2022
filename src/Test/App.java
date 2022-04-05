@@ -9,6 +9,10 @@ public class App {
 		z = x + y;
 		System.out.println("Result is = "+z);
 		
+		if(x>10) {
+			System.out.println("X is grater than 10");
+		}
+		
 
 	}
 
