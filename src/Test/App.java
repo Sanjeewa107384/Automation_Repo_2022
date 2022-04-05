@@ -12,6 +12,9 @@ public class App {
 		if(x>10) {
 			System.out.println("X is grater than 10");
 		}
+		else {
+			System.out.println("X is less than 10");
+		}
 		
 
 	}
